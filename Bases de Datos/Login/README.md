@@ -36,7 +36,6 @@ Este repositorio contiene un sistema de inicio de sesión básico desarrollado e
 ## Instalación
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
-2. git clone https://github.com/fairoh94/Login.git
 
 
 2. Navega al directorio del proyecto:
