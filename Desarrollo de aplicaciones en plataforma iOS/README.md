@@ -4,7 +4,10 @@ Este proyecto consiste en el desarrollo de una aplicación móvil para iOS, una 
 
 ## Características
 
-La aplicación está siendo desarrollada en Swift utilizando Xcode, combinando storyboards y SwiftUI, y está conectada a la base de datos de Firebase. La red social cuenta con las siguientes funcionalidades:
+- La aplicación está siendo desarrollada en Swift utilizando Xcode, combinando storyboards y SwiftUI, y está conectada a la base de datos de Firebase. 
+- Así mismo contiene una estructura MVVM.
+
+La red social cuenta con las siguientes funcionalidades:
 
 - Autenticación de usuarios.
 - Feed de noticias que muestra las publicaciones de personas seguidas.
