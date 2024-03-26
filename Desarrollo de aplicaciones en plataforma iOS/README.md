@@ -25,7 +25,7 @@ La red social cuenta con las siguientes funcionalidades:
 
 Aquí se muestran algunas capturas de pantalla del proyecto:
 
-![Captura de pantalla 1](https://i.ibb.co/4gsBB9K/1.png)
+![Captura de pantalla 1](https://i.ibb.co/t35XJht/1.png)
 ![Captura de pantalla 2](https://i.ibb.co/7XHKFcV/2.png)
 ![Captura de pantalla 3](https://i.ibb.co/HD03Vfv/3.png)
 ![Captura de pantalla 4](https://i.ibb.co/CJxdzrD/4.png)
