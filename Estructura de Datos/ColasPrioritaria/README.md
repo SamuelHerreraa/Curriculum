@@ -11,13 +11,13 @@ Los elementos se agregan a la cola con cierta probabilidad y se eliminan de la c
 
 Aquí están algunas capturas de pantalla del proyecto:
 
->Menu
+Menu
 ![Captura de pantalla 1](https://i.ibb.co/pJm8Q6S/1.png)
 
-> Valores Usados
+Valores Usados
 ![Captura de pantalla 2](https://i.ibb.co/sHM0N1Z/Valores-Usados.png)
 
->Funcionamiento
+Funcionamiento
 ![Captura de pantalla 3](https://i.ibb.co/JrTZ4dc/2.png)
 
 
