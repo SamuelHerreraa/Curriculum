@@ -36,7 +36,6 @@ Este repositorio contiene un sistema de inicio de sesión básico desarrollado e
 ## Instalación
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
-2. git clone https://github.com/fairoh94/Login.git
 
 
 2. Navega al directorio del proyecto:
@@ -59,3 +58,28 @@ npm run dev
 2. Regístrate proporcionando un nombre de usuario y una contraseña.
 3. Inicia sesión con tus credenciales registradas.
 4. Explora las diferentes funcionalidades del sistema de inicio de sesión.
+
+
+## Capturas de pantalla
+
+Aquí están algunas capturas de pantalla del proyecto:
+
+![Captura de pantalla 1](https://i.ibb.co/8sT135s/Login1.png)
+![Captura de pantalla 2](https://i.ibb.co/HnFG4DV/Login2.png)
+![Captura de pantalla 3](https://i.ibb.co/DkgnzLf/Login3.png)
+![Captura de pantalla 4](https://i.ibb.co/n8bF1fV/Login4.png)
+![Captura de pantalla 5](https://i.ibb.co/Fzc9ZL0/Login5.png)
+![Captura de pantalla 6](https://i.ibb.co/smtfPrF/LOgin6.png)
+![Captura de pantalla 7](https://i.ibb.co/VCDVxJC/Login7.png)
+![Captura de pantalla 8](https://i.ibb.co/vZ0XqL8/Login8.png)
+![Captura de pantalla 9](https://i.ibb.co/qBsz4s4/Login9.png)
+
+
+
+
+
+
+
+
+
+
