@@ -58,3 +58,18 @@ npm run dev
 2. Regístrate proporcionando un nombre de usuario y una contraseña.
 3. Inicia sesión con tus credenciales registradas.
 4. Explora las diferentes funcionalidades del sistema de inicio de sesión.
+
+
+## Capturas de pantalla
+
+Aquí están algunas capturas de pantalla del proyecto:
+
+![Captura de pantalla 1](https://ibb.co/LRbVwtR)
+![Captura de pantalla 2](https://ibb.co/ZWLcX6V)
+![Captura de pantalla 3](https://ibb.co/FJqtmn4)
+![Captura de pantalla 4](https://ibb.co/Wp6LzFd)
+![Captura de pantalla 5](https://ibb.co/0r1k4RF)
+![Captura de pantalla 6](https://ibb.co/6nNMZ54)
+![Captura de pantalla 7](https://ibb.co/T0Rc1Y0)
+![Captura de pantalla 8](https://ibb.co/Hn5h4GQ)
+![Captura de pantalla 9](https://ibb.co/cJFPpFp)
