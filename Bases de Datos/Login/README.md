@@ -64,12 +64,22 @@ npm run dev
 
 Aquí están algunas capturas de pantalla del proyecto:
 
-![Captura de pantalla 1](https://ibb.co/LRbVwtR)
-![Captura de pantalla 2](https://ibb.co/ZWLcX6V)
-![Captura de pantalla 3](https://ibb.co/FJqtmn4)
-![Captura de pantalla 4](https://ibb.co/Wp6LzFd)
-![Captura de pantalla 5](https://ibb.co/0r1k4RF)
-![Captura de pantalla 6](https://ibb.co/6nNMZ54)
-![Captura de pantalla 7](https://ibb.co/T0Rc1Y0)
-![Captura de pantalla 8](https://ibb.co/Hn5h4GQ)
-![Captura de pantalla 9](https://ibb.co/cJFPpFp)
+![Captura de pantalla 1](https://i.ibb.co/8sT135s/Login1.png)
+![Captura de pantalla 2](https://i.ibb.co/HnFG4DV/Login2.png)
+![Captura de pantalla 3](https://i.ibb.co/DkgnzLf/Login3.png)
+![Captura de pantalla 4](https://i.ibb.co/n8bF1fV/Login4.png)
+![Captura de pantalla 5](https://i.ibb.co/Fzc9ZL0/Login5.png)
+![Captura de pantalla 6](https://i.ibb.co/smtfPrF/LOgin6.png)
+![Captura de pantalla 7](https://i.ibb.co/VCDVxJC/Login7.png)
+![Captura de pantalla 8](https://i.ibb.co/vZ0XqL8/Login8.png)
+![Captura de pantalla 9](https://i.ibb.co/qBsz4s4/Login9.png)
+
+
+
+
+
+
+
+
+
+
