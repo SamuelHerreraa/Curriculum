@@ -21,6 +21,6 @@ Valores Usados
 
 Funcionamiento
 
-![Captura de pantalla 3]([https://i.ibb.co/JrTZ4dc/2.png](https://i.ibb.co/84T1RNc/Funncioanmiento.png)https://i.ibb.co/84T1RNc/Funncioanmiento.png)
+![Captura de pantalla 3](https://i.ibb.co/84T1RNc/Funncioanmiento.png)
 
 
